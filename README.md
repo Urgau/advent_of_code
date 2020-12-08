@@ -17,7 +17,7 @@ My solution for the [Advent of Code](https://adventofcode.com/).
 | ✔ [Day 5: Binary Boarding](2020/Day%2005)| 🌟 | 🌟 |
 | ✔ [Day 6: Custom Customs](2020/Day%2006)| 🌟 | 🌟 |
 | ✔ [Day 7: Handy Haversacks](2020/Day%2007)| 🌟 |🌟 |
-| [Day 8: TBD]()| | |
+| ✔ [Day 8: Handheld Halting](2020/Day%2008)| 🌟 | 🌟 |
 | [Day 9: TBD]()| | |
 | [Day 10: TBD]()| | |
 | [Day 11: TBD]()| | |
