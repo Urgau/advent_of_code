@@ -19,7 +19,7 @@ My solution for the [Advent of Code](https://adventofcode.com/).
 | ✔ [Day 7: Handy Haversacks](2020/Day%2007)| 🌟 |🌟 |
 | ✔ [Day 8: Handheld Halting](2020/Day%2008)| 🌟 | 🌟 |
 | ✔ [Day 9: Encoding Error](2020/Day%2009)| 🌟 | 🌟 |
-| [Day 10: TBD]()| | |
+| ✔ [Day 10: Adapter Array](2020/Day%2010)| 🌟 | 🌟 |
 | [Day 11: TBD]()| | |
 | [Day 12: TBD]()| | |
 | [Day 13: TBD]()| | |
