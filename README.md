@@ -20,7 +20,7 @@ My solution for the [Advent of Code](https://adventofcode.com/).
 | ✔ [Day 8: Handheld Halting](2020/Day%2008)| 🌟 | 🌟 |
 | ✔ [Day 9: Encoding Error](2020/Day%2009)| 🌟 | 🌟 |
 | ✔ [Day 10: Adapter Array](2020/Day%2010)| 🌟 | 🌟 |
-| [Day 11: TBD]()| | |
+| ✔ [Day 11: Seating System](2020/Day%2011)| 🌟 | 🌟 |
 | [Day 12: TBD]()| | |
 | [Day 13: TBD]()| | |
 | [Day 14: TBD]()| | |
