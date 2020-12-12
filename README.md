@@ -21,7 +21,7 @@ My solution for the [Advent of Code](https://adventofcode.com/).
 | ✔ [Day 9: Encoding Error](2020/Day%2009)| 🌟 | 🌟 |
 | ✔ [Day 10: Adapter Array](2020/Day%2010)| 🌟 | 🌟 |
 | ✔ [Day 11: Seating System](2020/Day%2011)| 🌟 | 🌟 |
-| [Day 12: TBD]()| | |
+| ✔ [Day 12: Rain Risk](2020/Day%2012)| 🌟 | 🌟 |
 | [Day 13: TBD]()| | |
 | [Day 14: TBD]()| | |
 | [Day 15: TBD]()| | |
