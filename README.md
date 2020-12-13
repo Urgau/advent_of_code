@@ -22,7 +22,7 @@ My solution for the [Advent of Code](https://adventofcode.com/).
 | ✔ [Day 10: Adapter Array](2020/Day%2010)| 🌟 | 🌟 |
 | ✔ [Day 11: Seating System](2020/Day%2011)| 🌟 | 🌟 |
 | ✔ [Day 12: Rain Risk](2020/Day%2012)| 🌟 | 🌟 |
-| [Day 13: TBD]()| | |
+| ✔ [Day 13: Shuttle Search](2020/Day%2013)| 🌟 | 🌟 |
 | [Day 14: TBD]()| | |
 | [Day 15: TBD]()| | |
 | [Day 16: TBD]()| | |
