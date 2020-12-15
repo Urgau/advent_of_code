@@ -24,7 +24,7 @@ My solution for the [Advent of Code](https://adventofcode.com/).
 | ✔ [Day 12: Rain Risk](2020/Day%2012)| 🌟 | 🌟 |
 | ✔ [Day 13: Shuttle Search](2020/Day%2013)| 🌟 | 🌟 |
 | ✔ [Day 14: Docking Data](2020/Day%2014)| 🌟 | 🌟 |
-| [Day 15: TBD]()| | |
+| ✔ [Day 15: Rambunctious Recitation](2020/Day%2015)| 🌟 | 🌟 |
 | [Day 16: TBD]()| | |
 | [Day 17: TBD]()| | |
 | [Day 18: TBD]()| | |
