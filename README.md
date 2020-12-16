@@ -25,7 +25,7 @@ My solution for the [Advent of Code](https://adventofcode.com/).
 | ✔ [Day 13: Shuttle Search](2020/Day%2013)| 🌟 | 🌟 |
 | ✔ [Day 14: Docking Data](2020/Day%2014)| 🌟 | 🌟 |
 | ✔ [Day 15: Rambunctious Recitation](2020/Day%2015)| 🌟 | 🌟 |
-| [Day 16: TBD]()| | |
+| ✔ [Day 16: Ticket Translation](2020/Day%2016)| 🌟 | 🌟 |
 | [Day 17: TBD]()| | |
 | [Day 18: TBD]()| | |
 | [Day 19: TBD]()| | |
