@@ -27,7 +27,7 @@ My solution for the [Advent of Code](https://adventofcode.com/).
 | ✔ [Day 15: Rambunctious Recitation](2020/Day%2015)| 🌟 | 🌟 |
 | ✔ [Day 16: Ticket Translation](2020/Day%2016)| 🌟 | 🌟 |
 | ✔ [Day 17: Conway Cubes](2020/Day%2017)| 🌟 | 🌟 |
-| [Day 18: TBD]()| | |
+| ✔ [Day 18: Operation Order](2020/Day%2018)| 🌟 | 🌟 |
 | [Day 19: TBD]()| | |
 | [Day 20: TBD]()| | |
 | [Day 21: TBD]()| | |
