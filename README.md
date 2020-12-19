@@ -28,7 +28,7 @@ My solution for the [Advent of Code](https://adventofcode.com/).
 | ✔ [Day 16: Ticket Translation](2020/Day%2016)| 🌟 | 🌟 |
 | ✔ [Day 17: Conway Cubes](2020/Day%2017)| 🌟 | 🌟 |
 | ✔ [Day 18: Operation Order](2020/Day%2018)| 🌟 | 🌟 |
-| [Day 19: TBD]()| | |
+| ✔ [Day 19: Monster Messages](2020/Day%2019)| 🌟 | ❌|
 | [Day 20: TBD]()| | |
 | [Day 21: TBD]()| | |
 | [Day 22: TBD]()| | |
