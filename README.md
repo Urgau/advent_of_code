@@ -29,7 +29,7 @@ My solution for the [Advent of Code](https://adventofcode.com/).
 | ✔ [Day 17: Conway Cubes](2020/Day%2017)| 🌟 | 🌟 |
 | ✔ [Day 18: Operation Order](2020/Day%2018)| 🌟 | 🌟 |
 | ✔ [Day 19: Monster Messages](2020/Day%2019)| 🌟 | ❌|
-| [Day 20: TBD]()| | |
+| ✔ [Day 20: Jurassic Jigsaw](2020/Day%2020)| 🌟 | ❌|
 | [Day 21: TBD]()| | |
 | [Day 22: TBD]()| | |
 | [Day 23: TBD]()| | |
