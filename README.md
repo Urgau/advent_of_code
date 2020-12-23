@@ -32,6 +32,6 @@ My solution for the [Advent of Code](https://adventofcode.com/).
 | ✔ [Day 20: Jurassic Jigsaw](2020/Day%2020)| 🌟 | ❌|
 | ✔ [Day 21: Allergen Assessment](2020/Day%2021)| 🌟 | 🌟 |
 | ✔ [Day 22: Crab Combat](2020/Day%2022)| 🌟 | 🌟 |
-| [Day 23: TBD]()| | |
+| ✔ [Day 23: Crab Cups](2020/Day%2023)| 🌟 | 🌟 |
 | [Day 24: TBD]()| | |
 | [Day 25: TBD]()| | |
