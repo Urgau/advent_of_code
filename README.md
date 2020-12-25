@@ -34,4 +34,4 @@ My solution for the [Advent of Code](https://adventofcode.com/).
 | ✔ [Day 22: Crab Combat](2020/Day%2022)| 🌟 | 🌟 |
 | ✔ [Day 23: Crab Cups](2020/Day%2023)| 🌟 | 🌟 |
 | ✔ [Day 24: Lobby Layout](2020/Day%2024)| 🌟 | 🌟 |
-| [Day 25: TBD]()| | |
+| ✔ [Day 25: Combo Breaker](2020/Day%2025)| 🌟 | ❌|
