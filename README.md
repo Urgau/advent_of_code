@@ -6,6 +6,12 @@ My solution for the [Advent of Code](https://adventofcode.com/).
 
 [Advent of Code](http://adventofcode.com) is an online event created by [Eric Wastl](https://github.com/topaz). Each year, starting on Dec 1st, an advent calendar of small programming puzzles are unlocked once a day at midnight (EST/UTC-5). Developers of all skill sets are encouraged to solve them in any programming language they choose!
 
+## Progress 2021
+
+| Day  | Part One | Part Two |
+|---|:---:|:---:|
+| ✔ [Day 1: Sonar Sweep](2021/Day%2001)| 🌟 | 🌟 |
+
 ## Progress 2020
 
 | Day  | Part One | Part Two |
