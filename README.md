@@ -13,6 +13,7 @@ My solution for the [Advent of Code](https://adventofcode.com/).
 | ✔ [Day 1: Sonar Sweep](2021/Day%2001)| 🌟 | 🌟 |
 | ✔ [Day 2: Dive!](2021/Day%2002)| 🌟 | 🌟 |
 | ✔ [Day 3: Binary Diagnostic](2021/Day%2003)| 🌟 | 🌟 |
+| ✔ [Day 4: Giant Squid](2021/Day%2004)| 🌟 | 🌟 |
 
 ## Progress 2020
 
