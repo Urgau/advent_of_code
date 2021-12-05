@@ -14,6 +14,7 @@ My solution for the [Advent of Code](https://adventofcode.com/).
 | ✔ [Day 2: Dive!](2021/Day%2002)| 🌟 | 🌟 |
 | ✔ [Day 3: Binary Diagnostic](2021/Day%2003)| 🌟 | 🌟 |
 | ✔ [Day 4: Giant Squid](2021/Day%2004)| 🌟 | 🌟 |
+| ✔ [Day 5: Hydrothermal Venture](2021/Day%2005)| 🌟 | 🌟 |
 
 ## Progress 2020
 
