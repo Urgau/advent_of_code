@@ -17,6 +17,7 @@ My solution for the [Advent of Code](https://adventofcode.com/).
 | ✔ [Day 5: Hydrothermal Venture](2021/Day%2005)| 🌟 | 🌟 |
 | ✔ [Day 6: Lanternfish](2021/Day%2006)| 🌟 | 🌟 |
 | ✔ [Day 7: The Treachery of Whales](2021/Day%2007)| 🌟 | 🌟 |
+| ✔ [Day 8: Seven Segment Search](2021/Day%2008)| 🌟 | ❌ |
 
 ## Progress 2020
 
