@@ -20,6 +20,7 @@ My solution for the [Advent of Code](https://adventofcode.com/).
 | ✔ [Day 8: Seven Segment Search](2021/Day%2008)| 🌟 | ❌ |
 | ✔ [Day 9: Smoke Basin](2021/Day%2009)| 🌟 | 🌟 |
 | ✔ [Day 10: Syntax Scoring](2021/Day%2010)| 🌟 | 🌟 |
+| ✔ [Day 11: Dumbo Octopus](2021/Day%2011)| 🌟 | 🌟 |
 
 ## Progress 2020
 
