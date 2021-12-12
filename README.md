@@ -21,6 +21,7 @@ My solution for the [Advent of Code](https://adventofcode.com/).
 | ✔ [Day 9: Smoke Basin](2021/Day%2009)| 🌟 | 🌟 |
 | ✔ [Day 10: Syntax Scoring](2021/Day%2010)| 🌟 | 🌟 |
 | ✔ [Day 11: Dumbo Octopus](2021/Day%2011)| 🌟 | 🌟 |
+| ✔ [Day 12: Passage Pathing](2021/Day%2012)| 🌟 | 🌟 |
 
 ## Progress 2020
 
