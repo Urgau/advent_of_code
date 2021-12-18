@@ -26,6 +26,7 @@ My solution for the [Advent of Code](https://adventofcode.com/).
 | ✔ [Day 14: Extended Polymerization](2021/Day%2014)| 🌟 | 🌟 |
 | ✔ [Day 15: Chiton](2021/Day%2015)| 🌟 | 🌟 |
 | ✔ [Day 17: Trick Shot](2021/Day%2017)| 🌟 | 🌟 |
+| ✔ [Day 18: Snailfish](2021/Day%2018)| 🌟 | 🌟 |
 
 ## Progress 2020
 
