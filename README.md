@@ -11,6 +11,7 @@ My solution for the [Advent of Code](https://adventofcode.com/).
 | Day  | Part One | Part Two |
 |---|:---:|:---:|
 | ✔ [Day 1: Calorie Counting](2022/Day%2001)| 🌟 | 🌟 |
+| ✔ [Day 2: Rock Paper Scissors](2022/Day%2002)| 🌟 | 🌟 |
 
 ## Progress 2021
 
