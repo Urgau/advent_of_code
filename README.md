@@ -17,6 +17,7 @@ My solution for the [Advent of Code](https://adventofcode.com/).
 | ✔ [Day 5: Supply Stacks](2022/Day%2005)| 🌟 | 🌟 |
 | ✔ [Day 6: Tuning Trouble](2022/Day%2006)| 🌟 | 🌟 |
 | ✔ [Day 7: No Space Left On Device](2022/Day%2007)| 🌟 | 🌟 |
+| ✔ [Day 8: Treetop Tree House](2022/Day%2008)| 🌟 | 🌟 |
 
 ## Progress 2021
 
