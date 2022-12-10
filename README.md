@@ -19,6 +19,7 @@ My solution for the [Advent of Code](https://adventofcode.com/).
 | ✔ [Day 7: No Space Left On Device](2022/Day%2007)| 🌟 | 🌟 |
 | ✔ [Day 8: Treetop Tree House](2022/Day%2008)| 🌟 | 🌟 |
 | ✔ [Day 9: Rope Bridge](2022/Day%2009)| 🌟 | 🌟 |
+| ✔ [Day 10: Cathode-Ray Tube](2022/Day%2010)| 🌟 | 🌟 |
 
 ## Progress 2021
 
