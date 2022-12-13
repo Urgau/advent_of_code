@@ -22,6 +22,7 @@ My solution for the [Advent of Code](https://adventofcode.com/).
 | ✔ [Day 10: Cathode-Ray Tube](2022/Day%2010)| 🌟 | 🌟 |
 | ✔ [Day 11: Monkey in the Middle](2022/Day%2011)| 🌟 | 🌟 |
 | ✔ [Day 12: Hill Climbing Algorithm](2022/Day%2012)| 🌟 | 🌟 |
+| ✔ [Day 13: Distress Signal](2022/Day%2013)| 🌟 | 🌟 |
 
 ## Progress 2021
 
