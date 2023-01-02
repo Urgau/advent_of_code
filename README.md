@@ -27,6 +27,7 @@ My solution for the [Advent of Code](https://adventofcode.com/).
 | ✔ [Day 15: Beacon Exclusion Zone](2022/Day%2015)| 🌟 | 🌟 |
 | ✔ [Day 16: Proboscidea Volcanium](2022/Day%2016)| 🌟 | 🌟 |
 | ✔ [Day 18: Boiling Boulders](2022/Day%2018)| 🌟 | ❌ |
+| ✔ [Day 19: Not Enough Minerals](2022/Day%2019)| 🌟 | 🌟 |
 
 ## Progress 2021
 
