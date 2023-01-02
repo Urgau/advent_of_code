@@ -24,12 +24,6 @@ My solution for the [Advent of Code](https://adventofcode.com/).
 | ✔ [Day 12: Hill Climbing Algorithm](2022/Day%2012)| 🌟 | 🌟 |
 | ✔ [Day 13: Distress Signal](2022/Day%2013)| 🌟 | 🌟 |
 | ✔ [Day 14: Regolith Reservoir](2022/Day%2014)| 🌟 | 🌟 |
-| ✔ [Day 15: Beacon Exclusion Zone](2022/Day%2015)| 🌟 | 🌟 |
-| ✔ [Day 16: Proboscidea Volcanium](2022/Day%2016)| 🌟 | 🌟 |
-| ✔ Day 17: Pyroclastic Flow |  ❌ | ❌ |
-| ✔ [Day 18: Boiling Boulders](2022/Day%2018)| 🌟 | ❌ |
-| ✔ [Day 19: Not Enough Minerals](2022/Day%2019)| 🌟 | 🌟 |
-| ✔ [Day 20: Grove Positioning System](2022/Day%2020)| 🌟 | 🌟 |
 
 ## Progress 2021
 
