@@ -26,6 +26,7 @@ My solution for the [Advent of Code](https://adventofcode.com/).
 | ✔ [Day 14: Regolith Reservoir](2022/Day%2014)| 🌟 | 🌟 |
 | ✔ [Day 15: Beacon Exclusion Zone](2022/Day%2015)| 🌟 | 🌟 |
 | ✔ [Day 16: Proboscidea Volcanium](2022/Day%2016)| 🌟 | 🌟 |
+| ✔ [Day 18: Boiling Boulders](2022/Day%2018)| 🌟 | ❌ |
 
 ## Progress 2021
 
